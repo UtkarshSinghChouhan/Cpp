@@ -1,0 +1,8 @@
+1. Binding means link between a Function call and the real function that is executed when the function is called.
+
+2. When the compiler knows which function to call before execution. it is know as the STATIC BINDING or EARLY BINDING.
+
+3. DYNAMIC BINDING or LATE BINDING means that the actual function invoked at the run time depends on the address stored in the pointer.
+   In this binding, link between the function call and the actual function is made.
+
+4. The keyword 'virtual' prevents the compiler to perform the early binding.Binding is postponed until the program  execution.

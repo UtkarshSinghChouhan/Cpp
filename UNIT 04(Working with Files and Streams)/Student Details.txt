@@ -1,0 +1,21 @@
+******************STUDENT DETAILS******************
+Name of the student : utkarsh
+Student id : 1
+Student cgpa : 9.4
+------------------------------------------------
+Name of the student : mayank
+Student id : 2
+Student cgpa : 8.2
+------------------------------------------------
+Name of the student : sandhya
+Student id : 3
+Student cgpa : 7.6
+------------------------------------------------
+Name of the student : shubham
+Student id : 4
+Student cgpa : 5.5
+------------------------------------------------
+Name of the student : naimish
+Student id : 5
+Student cgpa : 6.2
+------------------------------------------------

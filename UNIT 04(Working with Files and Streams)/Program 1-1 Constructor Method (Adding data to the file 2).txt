@@ -1,0 +1,3 @@
+This is the data added to the file 2 using the same object 'fout' of the ofstream class.
+This is new data added through the append opening mode.
+This is new data added through the append opening mode.

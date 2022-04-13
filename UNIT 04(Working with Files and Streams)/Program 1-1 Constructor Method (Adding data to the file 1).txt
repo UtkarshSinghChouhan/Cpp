@@ -1,0 +1,2 @@
+This is a program to open a file using the Constructor Method.
+This is new line added without using any variable.

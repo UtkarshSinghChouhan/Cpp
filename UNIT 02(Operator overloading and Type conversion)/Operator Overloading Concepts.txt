@@ -1,0 +1,25 @@
+*********** OPERATOR OVERLOADING CONCEPTS **************
+
+1. UNARY OPERATOR OVERLOADING:
+
+   1.1) USING MEMBER FUNCTION:
+        In this case we use zero number of arguments in the operator-function defination.
+        Whenever we call the operator-function from main (like,  ++obj) , the compliler will 
+        look for the definition of the operator ++ and the object/operand  will invoke(call) the function.  
+ 	
+   1.2) USING THE FRIEND FUNCTION:
+	In this case we use one argument in the operator-function definition.
+        Whenever we call the operator-friend function from main (like,  ++obj), the object will 
+	passed as an argument to the function and the operator will invoke(call) the function 
+	just like the scenerio when we create an object/operand the constructor gets called automatically.
+
+2. BINARY OPERATOR OVERLOADING:
+
+   2.1) USING MEMBER FUNCTION:
+	In this case we use one argument in the operator-function definition.
+	Whenever we call the operator-function inside the main (like, A+B),The left handed operand is always
+	used to invoke(call) the operator-function) and the right handed operand is passed as an argument.
+
+   2.2) USING FRIEND FUNCTION:
+	In this case we use two arguments in the operator-function definition.Whenever we call the friend operator
+	friend function in the main (like, A+B) both the operands or objects are passed as arguments.

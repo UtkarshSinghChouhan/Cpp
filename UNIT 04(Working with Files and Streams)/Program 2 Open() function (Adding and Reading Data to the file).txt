@@ -1,0 +1,1 @@
+This is the data added to the file by opening the file using the open() function.

@@ -1,0 +1,10 @@
+The size of the SET is : 4
+abc pqr uvw xyz 
+abc pqr uvw xyz 
+abc
+The size of the SET is : 3
+abc pqr xyz 
+abc pqr xyz 
+The size of the SET is : 2
+abc xyz 
+abc xyz 
